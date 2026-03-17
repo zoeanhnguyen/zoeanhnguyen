@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 Zoe | Economics @ UC Berkeley 🐻<br>Python • R • Exploring new things
 
 
